@@ -1,7 +1,7 @@
 - 📍recife, brazil
 - computer science student
-- linkedin www.linkedin.com/in/manuela-cavalcanti
-- email manucamorim123@gmail.com
+- linkedin: www.linkedin.com/in/manuela-cavalcanti
+- email: manucamorim123@gmail.com
 
 <div align="center">
   <a href="https://github.com/Manuelaamorim">
