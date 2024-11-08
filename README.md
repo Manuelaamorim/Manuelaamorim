@@ -1,7 +1,7 @@
-- 📍recife, brazil
-- computer science student
+- recife, brazil
+- third semester Computer Science student at CESAR School
 - linkedin: www.linkedin.com/in/manuela-cavalcanti
-- email: manucamorim123@gmail.com
+- email: manucamorim@hotmail.com
 
 <div align="center">
   <a href="https://github.com/Manuelaamorim">
